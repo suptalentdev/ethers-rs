@@ -3424,8 +3424,8 @@ dependencies = [
 
 [[package]]
 name = "solang-parser"
-version = "0.1.1"
-source = "git+https://github.com/hyperledger-labs/solang#4ad9d87881460fe89f2c4a0f762511f8fa445849"
+version = "0.1.11"
+source = "git+https://github.com/hyperledger-labs/solang#a524ff58f5cc033b849195c36cb0e07e06fe05fb"
 dependencies = [
  "lalrpop",
  "lalrpop-util",
